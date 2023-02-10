@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "../../Practice"
+		},
+		{
+			"path": "../Book List"
+		},
+		{
+			"path": "../Git Finder"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../RegExp"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Weaher App"
+	}
+}
